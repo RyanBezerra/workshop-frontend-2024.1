@@ -1,0 +1,10 @@
+.swiper-pagination{
+    display: none !important;
+}
+.swiper-button-prev,
+.swiper-button-next {
+    color: white !important;
+}
+#tumb{
+    margin: auto;
+}
