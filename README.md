@@ -6,4 +6,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 npm install react-hook-form
 npm install swiper
 npm install isomorphic-unfetch
+npm install
+npm start
 npm run dev
